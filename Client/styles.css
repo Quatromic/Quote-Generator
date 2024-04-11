@@ -45,6 +45,7 @@
     height:100%;
     width:100%;
     transform: scaleX(0);
+    transform-origin: right;
     border-radius: 15px;
     transition: .5s;
     z-index: -1;
